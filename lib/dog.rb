@@ -1,6 +1,13 @@
 # dog.rb
 class Dog
 
+def initialize(dog)
+  @dog = dog
+end
+
+def dog
+  @dog
+
 def fido(fido)
   @fido = fido
 end
