@@ -1,21 +1,13 @@
 # dog.rb
 class Dog
 
-def initialize(dog)
-  @dog = dog
-end
-
-def dog
-  @dog
-end
-
-def fido(fido)
+def initialize(fido)
   @fido = fido
 end
 
 def fido
   @fido
-  end
+end
 
   def snoopy(snoopy)
     @snoopy = snoopy
