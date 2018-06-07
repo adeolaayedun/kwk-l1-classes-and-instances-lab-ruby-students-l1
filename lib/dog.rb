@@ -7,6 +7,7 @@ end
 
 def dog
   @dog
+end
 
 def fido(fido)
   @fido = fido
